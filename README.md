@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm vivek kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **pointers**
+- 🔭 I’m currently working on **Data structure and algorithm**
 
-- 🌱 I’m currently learning **pointers in c++**
+- 🌱 I’m currently learning **data structure and algorithms in c++**
 
 - 👨‍💻 All of my projects are available at [https://quine.sh/repo/Vivek16777-CodeKeankenProjectRYM-687160133](https://quine.sh/repo/Vivek16777-CodeKeankenProjectRYM-687160133)
 
