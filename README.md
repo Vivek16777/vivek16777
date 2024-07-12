@@ -3,13 +3,13 @@
 <h1 align="center">Hi 👋, I'm vivek kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Data structure and algorithm**
+- 🔭 I’m currently working on **Web development**
 
-- 🌱 I’m currently learning **data structure and algorithms in c++**
+- 🌱 I’m currently learning **Java-script**
 
-- 👨‍💻 All of my projects are available at [https://quine.sh/repo/Vivek16777-CodeKeankenProjectRYM-687160133](https://quine.sh/repo/Vivek16777-CodeKeankenProjectRYM-687160133)
+- 👨‍💻 All of my projects are available at github
 
-- 💬 Ask me about **c++**
+- 💬 Ask me about **HTML**
 
 - 📫 How to reach me **vivekkumar16777@gmail.com**
 
